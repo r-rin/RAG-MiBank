@@ -1,0 +1,4 @@
+openai>=3.59,<4
+chromadb>=1.5,<2
+streamlit>=1.67,<2
+python-dotenv>=1.2,<2

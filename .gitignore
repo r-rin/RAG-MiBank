@@ -1,0 +1,11 @@
+# Secrets
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Vector DB (rebuilt with `python -m src.ingest`)
+chroma_db/
+chroma/
